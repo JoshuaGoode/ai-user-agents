@@ -9,8 +9,9 @@ For instance, OpenAI uses a user-agent identified as `GPTBot` for its web crawli
 
 ## Current Goals
 
-1. Curate plaintext categorized lists of user agents related to various AI tasks.
-2. Offer scripts and examples for automating list generation, updates, and integrations with applications. E.g., firewalls.
+1. Curate plaintext categorized lists of user agent strings and tokens related to various AI tasks.
+2. Expand to include IP ranges and documentation references.
+3. Offer scripts and examples for automating list generation, updates, and integrations with applications. E.g., firewalls.
 
 ## Contributions
 
