@@ -1,5 +1,5 @@
 # ai-user-agents
-Collection of AI User Agents used for dataset curation, training, browsing, and general crawling.
+Collection of known AI User Agents strings and tokens used for dataset curation, training, browsing, and general crawling.
 
 ## Purpose
 
