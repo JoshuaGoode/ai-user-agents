@@ -7,6 +7,11 @@ The objective is twofold: For one, this type of resource could serve as a valuab
 
 For instance, OpenAI uses a user-agent identified as `GPTBot` for its web crawling. Likewise, the Common Crawl project uses `CCBot`. Knowing these identifiers could be used for stats, rate limiting, directory limiting, and blocking.
 
-## Goals
+## Current Goals
+
 1. Curate plaintext categorized lists of user agents related to various AI tasks.
 2. Offer scripts and examples for automating list generation, updates, and integrations with applications. E.g., firewalls.
+
+## Contributions
+
+Contributions are welcome and encouraged. Currently looking for assistance with collecting, organizing, and maintaining the lists as well as planning for potential scripts. 
