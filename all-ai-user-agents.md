@@ -2,12 +2,16 @@
 
 ### OpenAI
 
+##### GPTBot
+
 * User-agent token: `GPTBot`
 * Full user-agent string: `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)`
 * IP Range: https://openai.com/gptbot-ranges.txt
 * Source: https://platform.openai.com/docs/gptbot
 
-* User-agent token: `ChatGPT-User
+##### ChatGPT-User
+
+* User-agent token: `ChatGPT-User`
 * Full user-agent string: `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot`
 * IP Range: 23.98.142.176/28
 * Source: https://platform.openai.com/docs/plugins/bot
